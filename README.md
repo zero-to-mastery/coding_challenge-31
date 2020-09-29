@@ -9,7 +9,7 @@ Hacktoberfest 2020 returns to ZTM with three brand new projects for you to compl
 - Make 4 pull requests to **ANY** public repository during the month of October!
 - Have fun
 
-This year, the first 50,000 participants who successfully complete the challenge will earn a free T-shirt and some stickers.
+This year, the first 70,000 participants who successfully complete the challenge will entitled to pick a free limited edition T-shirt **or** plant a tree!
 You can find out more details about Hacktoberfest on their website, as well as track your progress throughout the month.
 
 
