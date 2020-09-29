@@ -36,13 +36,17 @@ A project with beginners and aspiring developers in mind, utilizing HTML, CSS & 
 
 [Project Repo/Instructions](https://github.com/zero-to-mastery/keiko-corp)
 
-#### [![ProjectPython](https://img.shields.io/badge/PYTHON%20PROJECT-Project%20Python-blue?style=for-the-badge&logo=Python)](https://github.com/zero-to-mastery/project-python)
-A fun, beginner-friendly python challenge.
+#### [![ASCII ART](https://img.shields.io/badge/PYTHON%20PROJECT-ASCII%20ART-blue?style=for-the-badge&logo=Python)](https://github.com/zero-to-mastery/project-python)
+Welcome to this years Python challenge for Hacktoberfest, A project with beginners and aspiring developers in mind, utilizing Python to convert images into ASCII Art.
+
+ASCII art is a graphic design technique that uses computers for presentation and consists of pictures pieced together from the 95 printable characters defined by the ASCII Standard from 1963 and ASCII compliant character sets with proprietary extended characters.
 
 ##### PROJECT BRIEF
-> TBD
+> Let's see how we can evolve the ASCII generator with our ZTM community help!! Maybe we want to display this on an HTML web page where users can submit images and we convert it to ASCII art? Maybe we want to improve how the Command Line Tool works/make it more customizeable? Or maybe modify the script to do many other types of art beyond ASCII.
 
-[Project Repo/Instructions](https://github.com/zero-to-mastery/python-art)
+The options are endless and there is no wrong answer. This is all for fun, so try to customize the tool whichever way you think would be best and let's see what we get at the end of the month! Enjoy!
+
+[Project Repo/Instructions](https://github.com/zero-to-mastery/ascii-art)
 
 # But how do I make a pull request/participate?
 
