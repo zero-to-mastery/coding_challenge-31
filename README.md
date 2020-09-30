@@ -19,24 +19,23 @@ This event is a super popular event throughout the Zero To Mastery community, wi
 **Following their success, we are excited to announce 3 brand new projects for this year's Hacktoberfest:**
 
 #### [![Canvas Creations](https://img.shields.io/badge/CSS%20PROJECT-Canvas%20Creations-yellow?style=for-the-badge&logo=CSS3)](https://github.com/zero-to-mastery/Canvas-Creations)
-A fun, beginner-friendly HTML CANVAS element challenge.
+Your favourite annual creative challenge for Hacktoberfest is here! We will once again be showcasing the creative talents of our ZTM students, this time using the HTML <canvas> element.
 
 #### PROJECT BRIEF
-> TBD
+> Using HTML, CSS and vanilla JavaScript, your mission is to create a work of art with the `<canvas>` element. It can be as simple or elaborate as you like, however please ensure that the code is your own, and not copied from other sources.  
 
-[Project Repo/Instructions](https://github.com/zero-to-mastery/#)
+[Project Repo/Instructions](https://github.com/zero-to-mastery/canvas-creations)
 
 #### [![KEIKO CORP](https://img.shields.io/badge/HTML%20PROJECT-KEIKO%20CORP-critical?style=for-the-badge&logo=HTML5)](https://github.com/zero-to-mastery/Keiko-Corp)
-A project with beginners and aspiring developers in mind, utilizing HTML, CSS & maybe a dash of JavaScript to achieve a simplistic yet elegant website for the greatest start up of all time; Keiko Corp.
+Welcome to this years HTML challenge for Hacktoberfest, a project with beginners and aspiring developers in mind, utilizing HTML, CSS & maybe a dash of JavaScript to achieve a simplistic yet elegant website for the greatest start up of all time; Keiko Corp.
 
 ##### PROJECT BRIEF
-> A project with beginners and aspiring developers in mind, utilizing HTML, CSS & maybe a dash of JavaScript to achieve a simplistic yet elegant website for the greatest start up of all time; Keiko Corp.
->
+
 > Bruno has put together a quick Froala mockup to demonstrate the layout and simplistic design they are looking for. Although Bruno did request the website be as immaculate and as impressive as his hair, the design is totally open to interpretation and modification during the first iteration of development.
 
 [Project Repo/Instructions](https://github.com/zero-to-mastery/keiko-corp)
 
-#### [![ASCII ART](https://img.shields.io/badge/PYTHON%20PROJECT-ASCII%20ART-blue?style=for-the-badge&logo=Python)](https://github.com/zero-to-mastery/project-python)
+#### [![ASCII ART](https://img.shields.io/badge/PYTHON%20PROJECT-ASCII%20ART-blue?style=for-the-badge&logo=Python)](https://github.com/zero-to-mastery/ascii-art)
 Welcome to this years Python challenge for Hacktoberfest, A project with beginners and aspiring developers in mind, utilizing Python to convert images into ASCII Art.
 
 ASCII art is a graphic design technique that uses computers for presentation and consists of pictures pieced together from the 95 printable characters defined by the ASCII Standard from 1963 and ASCII compliant character sets with proprietary extended characters.
