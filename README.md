@@ -51,5 +51,6 @@ The options are endless and there is no wrong answer. This is all for fun, so tr
 
 > If you've never made a pull request before, or participated in an open-source project, we recommend taking a look at our [Start Here Guidelines](https://github.com/zero-to-mastery/start-here-guidelines). This repo has everything you need to learn about open-source, with a step-by-step guide to making your very first PR.
 > Once you've got your feet wet, you're ready to come back and dive into Hacktoberfest fun!
+> Best wishes from ZTM.
 
 **Remember, you only need to make 4 pull requests to one of these open source projects in the month of October, and you get an awesome Hacktoberfest shirt! Let's see if we can beat the record from last year!!**
