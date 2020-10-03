@@ -64,6 +64,6 @@ Simply speaking, your work is done. You can continue working and making pull req
 
 Meanwhile, Hacktoberfest keeps track of all your pull requests. And, as mentioned above, you'll be eligible to get the Hacktoberfest shirt once you successfully make 4 pull requests.
 
-> Some repositories are ineligible for Hacktoberfest as they aren't up to the mark with the event's values. Don't worry, all **Zero To Mastery** repositories are eligible for the event.
+> Some repositories are ineligible for Hacktoberfest as they aren't up to the mark with the event's values. You can find all **Zero To Mastery** repositories that are eligible for the event [here](https://github.com/search?q=topic%3Ahacktoberfest+org%3Azero-to-mastery+fork%3Atrue).
 
 **Remember, you only need to make 4 pull requests to one of these open source projects in the month of October, and you get an awesome Hacktoberfest shirt! Let's see if we can beat the record from last year!!**
