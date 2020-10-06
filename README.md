@@ -2,7 +2,7 @@
 
 # What is Hacktoberfest?
 
-Every October, Digital Ocean runs Hacktoberfest, a month-long celebration of open-sourced software. Encouraging developers at all stages in their careers to participate in the open-source community. The event is open to everyone in the global community, no matter your skill level or background and it grows in size every year.
+Every October, Digital Ocean runs Hacktoberfest, a month-long celebration of open-sourced software. Encouraging developers at all stages in their careers to take part in the open-source community. The event is open to everyone in the global community, no matter your skill level or background and it grows in size every year.
 
 Hacktoberfest 2020 returns to ZTM with three brand new projects for you to complete the challenge and **earn a limited edition T-shirt!** All you have to do to take part is:
 
@@ -15,7 +15,7 @@ You can find out more details about Hacktoberfest on their website, as well as t
 
 # Zero To Mastery Hacktoberfest Projects
 
-This event is a super popular event throughout the Zero To Mastery community, with over 800 pull requests made to the [three projects](https://github.com/zero-to-mastery/coding_challenge-22) available last year. With 2018 seeing a combined total of 494 Pull Requests, from over 200 collaborators! Let's smash that record this year with our massive ZTM family!
+ This event is a super popular event throughout the Zero To Mastery community, with over 800 pull requests made to the [three projects](https://github.com/zero-to-mastery/coding_challenge-22) available last year. With 2018 seeing a combined total of 494 Pull Requests, from over 200 collaborators! Let's smash that record this year with our massive ZTM family!
 
 **Following their success, we are excited to announce 3 brand new projects for this year's Hacktoberfest:**
 
@@ -35,19 +35,19 @@ Welcome to this years HTML challenge for Hacktoberfest, a project with beginners
 
 ##### PROJECT BRIEF
 
-> Bruno has put together a quick Froala mockup to demonstrate the layout and simplistic design they are looking for. Although Bruno did request the website be as immaculate and as impressive as his hair, the design is totally open to interpretation and modification during the first iteration of development.
+> Bruno has put together a quick Froala mockup to show the layout and simple design they are looking for. Although Bruno did ask the website be as immaculate and as impressive as his hair, the design is totally open to interpretations and modifications during the first iteration of development.
 
 [Project Repo/Instructions](https://github.com/zero-to-mastery/keiko-corp)
 
 #### [![ASCII ART](https://img.shields.io/badge/PYTHON%20PROJECT-ASCII%20ART-blue?style=for-the-badge&logo=Python)](https://github.com/zero-to-mastery/ascii-art)
 
-Welcome to this years Python challenge for Hacktoberfest, A project with beginners and aspiring developers in mind, utilizing Python to convert images into ASCII Art.
+Welcome to this year's Python challenge for Hacktoberfest, A project with beginners and aspiring developers in mind, utilizing Python to convert images into ASCII Art.
 
 ASCII art is a graphic design technique that uses computers for presentation and consists of pictures pieced together from the 95 printable characters defined by the ASCII Standard from 1963 and ASCII compliant character sets with proprietary extended characters.
 
 ##### PROJECT BRIEF
 
-> Let's see how we can evolve the ASCII generator with our ZTM community help!! Maybe we want to display this on an HTML web page where users can submit images and we convert it to ASCII art? Maybe we want to improve how the Command Line Tool works/make it more customizeable? Or maybe modify the script to do many other types of art beyond ASCII.
+> Let's see how we can evolve the ASCII generator with our ZTM community help!! Maybe we want to display this on an HTML web page where users can send images and we convert it to ASCII art? Maybe we want to improve how the Command Line Tool works/make it more customizable? Or maybe modify the script to do many other types of art beyond ASCII.
 
 The options are endless and there is no wrong answer. This is all for fun, so try to customize the tool whichever way you think would be best and let's see what we get at the end of the month! Enjoy!
 
